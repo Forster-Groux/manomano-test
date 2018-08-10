@@ -10,4 +10,4 @@ function getOccurrenceNumber(text, word) {
   return filteredWords.length;
 }
 
-module.export = getOccurrenceNumber;
+module.exports = getOccurrenceNumber;
